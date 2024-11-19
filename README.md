@@ -19,14 +19,6 @@ Perform sentiment analysis on a dataset of text reviews using a dense neural net
 - Training a dense neural network for sentiment classification .  
 - Evaluation metrics: Accuracy,
 
---
-
-### Dependencies  
-- Python 3.x  
-- TensorFlow / Keras  
-- nltk  
-- numpy  
-
 ---
 
 ## Fashion MNIST Classification  
